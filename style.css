@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-image: url('1398312.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+video {
+    width: 0px;
+    height: 0px;
+}
+
+table {
+    width: auto;
+    margin: auto;
+}
+
+tr, td {
+    border: 0px;
+    text-align: center; 
+}
+
+body {
+    background-image: url('1398312.jpg');
+
+}
+footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #333;
+    color: white;
+  }
+  @media screen and (max-width: 600px) {
+    table {
+        width: 100%;
+    }
+
+    body {
+        background-position: center;
+    }
+}

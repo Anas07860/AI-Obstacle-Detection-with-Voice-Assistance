@@ -1,1 +1,1 @@
-# AI-Obstacle-Detection-with-Voice-Assistance
+# AI-OBJECT-DETECTION
